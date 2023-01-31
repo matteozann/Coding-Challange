@@ -1,0 +1,68 @@
+body {
+    background-image: url(immagini/background.jpg);
+    background-size: cover ;
+      
+}
+
+.container {
+    background-color: rgba(000, 000, 000, 0.5);
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-bottom: 10%;
+    margin-left: 15%;
+    margin-right: 5%;
+    padding: 70px;
+    
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 12px;
+}
+
+.logo {
+    width: 180px;
+}
+
+header {
+    text-align: center;
+}
+
+.title {
+    color: limegreen;
+}
+
+.barra {
+    background-color: limegreen;
+    padding: 10px;
+    text-align: center;
+}
+
+.barra1 {
+    background-color: orange;
+    width: 250px;
+    height: 20px; 
+    border-radius: 5px;  
+}
+
+.barra2 {
+    background-color: limegreen;
+    width: 350px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.barra3 {
+    background-color: pink;
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.title-scts {
+    font-size: 20px;
+}
+
+
